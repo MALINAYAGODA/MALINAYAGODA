@@ -1,7 +1,4 @@
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ### Languages and Tools:
 
 ![Python](https://img.shields.io/badge/-Python-950008?style=for-the-badge&logo=python&logoColor=47C5FB)
