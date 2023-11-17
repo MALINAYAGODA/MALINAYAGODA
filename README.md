@@ -1,41 +1,49 @@
-### Data Scientist Intern
-sdfvbferfbgrfbgfrfgbr
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id428408665)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/malinin_danila)
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@bumbum3229)
-- 🔭 I am currently working on improving my skills in Data Science. I am preparing to enter the University and the School of Economics
-- 🌱 I am currently studying at MISES University in Moscow
-- 👯 I am looking to collaborate on cooperation in the field of machine and deep learning
-- 🤔 I’m looking for help with a set of experience, so I will be happy to participate in projects
-- 💬 Ask me for help - I will try to answer 
-- 😄 Pronouns: intelligent weirdo
-- ⚡ Fun fact: in a year I will become a Junior programmer
+# Hi, I'm Roman 👋
+Senior Software Engineer with more than 5 years of commertial experience. I have excellent knowledge in backend development on Java.
+In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
 
-### WORK EXPERIENCE
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=MALINAYAGODA&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/MALINAYAGODA/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALINAYAGODA&layout=compact"/></a>
+</p>
 
-### PROJECTS & HACKS
+<p align='center'>
+   <a href="https://www.linkedin.com/in/MALINAYAGODA/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+   📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
+</p>
 
-### EVENT STAFF
 
-### Languages and Tools:
+### Key points
+*   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
+*   creator and author of [MALINAYAGODA](https://t.me/MALINAYAGODA) telegram channel. Subscribe to recieve messages about my open-source activities.
+*   Write posts about software development.
+*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
 
-![Python](https://img.shields.io/badge/-Python-610061?style=for-the-badge&logo=python&logoColor=47C5FB)
-![PyGame](https://img.shields.io/badge/-PyGame-610061?style=for-the-badge&logo=WeGame&logoColor=097CDB)
-![SQL](https://img.shields.io/badge/-SQL-610061?style=for-the-badge&logo=MySQL&logoColor=F8C52C)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-610061?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
-![PyTorch](https://img.shields.io/badge/-PyTorch-610061?style=for-the-badge&logo=PyTorch&logoColor=E9D54D)
-![Keras](https://img.shields.io/badge/-Keras-610061?style=for-the-badge&logo=Keras&logoColor=E9D54D)
-![Scikit_learn](https://img.shields.io/badge/-Scikit_learn-610061?style=for-the-badge&logo=Scikitlearn&logoColor=E9D54D)
+## 🛠 Technical Stack
+*   Java/Kotlin/Groovy/COBOL languages
+*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
+*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
+*   Camunda, Camunda Cockpit, Camunda Modeleter
+*   GitHub/GitLab/Gerrit/Bitbucket
 
-### Socials:
+### My opensource projects
 
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id428408665)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/malinin_danila)
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@bumbum3229)
+*   [image-comparison](https://github.com/MALINAYAGODA/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
+*   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
+*   [Skyscanner Flight API client](https://github.com/MALINAYAGODA/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
+*   [Flights-monitoring](https://github.com/MALINAYAGODA/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MALINAYAGODA)](https://github.com/anuraghazra/github-readme-stats)
-
-### Blogs
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/MALINAYAGODA/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=MALINAYAGODA&color=DE002D">
+   </a>
+</div>
