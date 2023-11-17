@@ -3,9 +3,9 @@ Senior Software Engineer with more than 5 years of commertial experience. I have
 In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=MALINAYAGODA&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=MALINAYAGODA"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=MALINAYAGODA&show_icons=true&count_private=true"/></a>
+           src="https://github-readme-stats.vercel.app/api?username=MALINAYAGODA"/></a>
    <a href="https://github.com/MALINAYAGODA/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALINAYAGODA&layout=compact"/></a>
 </p>
@@ -42,8 +42,8 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 *   [Skyscanner Flight API client](https://github.com/MALINAYAGODA/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
 *   [Flights-monitoring](https://github.com/MALINAYAGODA/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
 
-<div align="center" style="margin: 40px 0">
+<div align="left" style="margin: 40px 0">
    <a href="https://github.com/MALINAYAGODA/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=MALINAYAGODA&color=DE002D">
+       <img width="60px" src="https://komarev.com/ghpvc/?username=MALINAYAGODA&color=DE002D">
    </a>
 </div>
