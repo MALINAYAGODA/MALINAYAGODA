@@ -33,7 +33,7 @@ Data Scientist Intern
 *   TensorFlow/PyTorch/Keras/Scikit_learn
 *   GitHub/GitLab/Gerrit/Bitbucket
 
-## My opensource projects & hacks
+## Projects & Hacks
 
 *   [image-comparison](https://github.com/MALINAYAGODA/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
 
