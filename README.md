@@ -22,8 +22,7 @@ Data Scientist Intern
 
 ### Key points
 *   creator and author of [swagman_trip](https://t.me/swagman_trip) telegram channel. Subscribe to recieve messages about my open-source activities.
-*   Currently studing in [MISIS](https://misis.ru/applicants/admission/baccalaureate-and-specialty/faculties/math/)
-*   
+*   Currently studing in [MISIS](https://misis.ru/applicants/admission/baccalaureate-and-specialty/faculties/math/). Bachelor of Science. Applied mathematics.
 ## WORK EXPERIENCE
 -
 
