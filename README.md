@@ -1,6 +1,5 @@
-# Hi, I'm Roman 👋
-Senior Software Engineer with more than 5 years of commertial experience. I have excellent knowledge in backend development on Java.
-In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
+# Hi, I'm Danila 👋
+Data Scientist Intern 
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=MALINAYAGODA"><img
@@ -14,36 +13,35 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
    <a href="https://www.linkedin.com/in/MALINAYAGODA/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
+   <a href="https://t.me/malinin_danila">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
+   📫 How to reach me: <a href='mailto:d4nilamalinin@yandex.ru'>d4nilamalinin@yandex.ru</a>
 </p>
 
-
 ### Key points
-*   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   creator and author of [MALINAYAGODA](https://t.me/MALINAYAGODA) telegram channel. Subscribe to recieve messages about my open-source activities.
-*   Write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
+*   creator and author of [swagman_trip](https://t.me/swagman_trip) telegram channel. Subscribe to recieve messages about my open-source activities.
+*   Currently studing in [MISIS](https://misis.ru/applicants/admission/baccalaureate-and-specialty/faculties/math/)
 
 ## 🛠 Technical Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
+*   Python/PyGame/
+*   MySQL/
+*   TensorFlow/PyTorch/Keras/Scikit_learn
 *   GitHub/GitLab/Gerrit/Bitbucket
 
-### My opensource projects
+## WORK EXPERIENCE
+-
+
+### My opensource projects & hacks
 
 *   [image-comparison](https://github.com/MALINAYAGODA/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
-*   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
-*   [Skyscanner Flight API client](https://github.com/MALINAYAGODA/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
-*   [Flights-monitoring](https://github.com/MALINAYAGODA/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
+
+### Relevant courses
+- Tinkoff Education
 
 <div align="left" style="margin: 40px 0">
    <a href="https://github.com/MALINAYAGODA/github-profile-views-counter">
-       <img width="60px" src="https://komarev.com/ghpvc/?username=MALINAYAGODA&color=DE002D">
+       <img width="100px" src="https://komarev.com/ghpvc/?username=MALINAYAGODA&color=DE002D">
    </a>
 </div>
