@@ -1,3 +1,21 @@
+### Data Scientist Intern
+sdfvbferfbgrfbgfrfgbr
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id428408665)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/malinin_danila)
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@bumbum3229)
+- 🔭 I am currently working on improving my skills in Data Science. I am preparing to enter the University and the School of Economics
+- 🌱 I am currently studying at MISES University in Moscow
+- 👯 I am looking to collaborate on cooperation in the field of machine and deep learning
+- 🤔 I’m looking for help with a set of experience, so I will be happy to participate in projects
+- 💬 Ask me for help - I will try to answer 
+- 😄 Pronouns: intelligent weirdo
+- ⚡ Fun fact: in a year I will become a Junior programmer
+
+### WORK EXPERIENCE
+
+### PROJECTS & HACKS
+
+### EVENT STAFF
 
 ### Languages and Tools:
 
@@ -8,19 +26,6 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-610061?style=for-the-badge&logo=PyTorch&logoColor=E9D54D)
 ![Keras](https://img.shields.io/badge/-Keras-610061?style=for-the-badge&logo=Keras&logoColor=E9D54D)
 ![Scikit_learn](https://img.shields.io/badge/-Scikit_learn-610061?style=for-the-badge&logo=Scikitlearn&logoColor=E9D54D)
-*d1
-*d2
-
-
-
-### Some facts about me
-- 🔭 I am currently working on improving my skills in Data Science. I am preparing to enter the University and the School of Economics
-- 🌱 I am currently studying at MISES University in Moscow
-- 👯I am looking to collaborate on cooperation in the field of machine and deep learning
-- 🤔I’m looking for help with a set of experience, so I will be happy to participate in projects
-- 💬Ask me for help - I will try to answer 
-- 😄 Pronouns: intelligent weirdo
-- ⚡ Fun fact: in a year I will become a Junior programmer
 
 ### Socials:
 
