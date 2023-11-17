@@ -23,6 +23,9 @@ Data Scientist Intern
 ### Key points
 *   creator and author of [swagman_trip](https://t.me/swagman_trip) telegram channel. Subscribe to recieve messages about my open-source activities.
 *   Currently studing in [MISIS](https://misis.ru/applicants/admission/baccalaureate-and-specialty/faculties/math/)
+*   
+## WORK EXPERIENCE
+-
 
 ## 🛠 Technical Stack
 *   Python/PyGame/
@@ -30,10 +33,7 @@ Data Scientist Intern
 *   TensorFlow/PyTorch/Keras/Scikit_learn
 *   GitHub/GitLab/Gerrit/Bitbucket
 
-## WORK EXPERIENCE
--
-
-### My opensource projects & hacks
+## My opensource projects & hacks
 
 *   [image-comparison](https://github.com/MALINAYAGODA/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
 
