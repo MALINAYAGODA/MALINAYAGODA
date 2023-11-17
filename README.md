@@ -8,6 +8,9 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-610061?style=for-the-badge&logo=PyTorch&logoColor=E9D54D)
 ![Keras](https://img.shields.io/badge/-Keras-610061?style=for-the-badge&logo=Keras&logoColor=E9D54D)
 ![Scikit_learn](https://img.shields.io/badge/-Scikit_learn-610061?style=for-the-badge&logo=Scikitlearn&logoColor=E9D54D)
+*d1
+*d2
+
 
 
 ### Some facts about me
