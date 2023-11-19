@@ -26,7 +26,7 @@
 *   
 
 ## 🛠 Technical Stack
-*   Python/PyGame/PyQt5/
+*   Python * PyGame/PyQt5/
 *   MySQL/
 *   TensorFlow/PyTorch/Keras/Scikit_learn/Numpy/Pandas/
 *   GitHub/GitLab/
