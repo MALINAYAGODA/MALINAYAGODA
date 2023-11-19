@@ -1,5 +1,5 @@
 # Hi, I'm Danila 👋
-Data Scientist Intern 
+**Data Scientist Intern.** A young specialist trying out in various competitions and courses to find his idyll. Eager to kickstart my career as a DS intern at Yandex. Knowledgeable in machine vision and gradually switching to NLP.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=MALINAYAGODA"><img
@@ -21,23 +21,30 @@ Data Scientist Intern
 </p>
 
 ### Key points
-*   creator and author of [swagman_trip](https://t.me/swagman_trip) telegram channel. Subscribe to recieve messages about my open-source activities.
+*   creator and author of [Swagman_trip](https://t.me/swagman_trip) telegram channel. Subscribe to recieve messages about my open-source activities.
 *   Currently studing in [MISIS](https://misis.ru/applicants/admission/baccalaureate-and-specialty/faculties/math/). Bachelor of Science. Applied mathematics.
-## WORK EXPERIENCE
--
+*   
 
 ## 🛠 Technical Stack
-*   Python/PyGame/
+*   Python/PyGame/PyQt5/
 *   MySQL/
-*   TensorFlow/PyTorch/Keras/Scikit_learn
-*   GitHub/GitLab/Gerrit/Bitbucket
+*   TensorFlow/PyTorch/Keras/Scikit_learn/Numpy/Pandas/
+*   GitHub/GitLab/
 
 ## Projects & Hacks
 
-*   [image-comparison](https://github.com/MALINAYAGODA/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
-
+*   [Yandex_cup](https://github.com/MALINAYAGODA/Yandex_cup) [2023] - ///
+*   [DataWagon_hack](https://github.com/MALINAYAGODA/DataWagon_hack) [2023] - ///
+*   [IVision_hack](https://github.com/MALINAYAGODA/IVision_hack) [2021] - ///
+*   [Search_for_superheroes](https://github.com/MALINAYAGODA/Search_for_superheroes) [2021] - ///
+*   [Yandex_alice_hackathon](https://github.com/MALINAYAGODA/Yandex-Alice-Hackathon) [2021] - ///
+*   [Yandex_Race](https://github.com/MALINAYAGODA/Yandex-Race) [2021] - ///
+ 
 ### Relevant courses
-- Tinkoff Education
+- Deep Learning School [2022-2023]
+- Tinkoff Education ML/DL [2020-2021]
+- Yandex_lyceum [2019-2021]
+- Yandex_lyceum++ [2020-2021]
 
 <div align="left" style="margin: 40px 0">
    <a href="https://github.com/MALINAYAGODA/github-profile-views-counter">
