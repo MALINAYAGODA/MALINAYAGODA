@@ -21,9 +21,10 @@
 </p>
 
 ### Key points
-*   creator and author of [Swagman_trip](https://t.me/swagman_trip) telegram channel. Subscribe to recieve messages about my open-source activities.
+*   Creator and author of [Swagman_trip](https://t.me/swagman_trip) telegram channel. Subscribe to recieve messages about my open-source activities.
 *   Currently studing in [MISIS](https://misis.ru/applicants/admission/baccalaureate-and-specialty/faculties/math/). Bachelor of Science. Applied mathematics.
-*   
+*   Do sports, in free time play volleyball.  
+*   A member of the Ambassador club in MISIS.
 
 ## 🛠 Technical Stack
 *   Python/ PyGame/ PyQt5/
