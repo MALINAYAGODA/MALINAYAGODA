@@ -20,32 +20,52 @@
    📫 How to reach me: <a href='mailto:d4nilamalinin@yandex.ru'>d4nilamalinin@yandex.ru</a>
 </p>
 
-### Key points
-*   Creator and author of [Swagman_trip](https://t.me/swagman_trip) telegram channel. Subscribe to recieve messages about my open-source activities.
-*   Currently studing in [MISIS](https://misis.ru/applicants/admission/baccalaureate-and-specialty/faculties/math/). Bachelor of Science. Applied mathematics.
-*   Do sports, in free time play volleyball.  
-*   A member of the Ambassador club in MISIS.
+### Education
+MBEI Gymnasium №1, Cheboksary; (2012-2023)
+Level: Secondary education, 11th grade
 
-## 🛠 Technical Stack
-*   Python/ PyGame/ PyQt5/
-*   MySQL/
-*   TensorFlow/ PyTorch/ Keras/ Scikit_learn/ Numpy/ Pandas/
-*   GitHub/ GitLab/
+MISIS University, Moscow; (2023-2027)
+Direction: "Applied Mathematics"
+Level: First course
+
+### Additional Education
+- Deep Learning School [2022-2023]
+- Tinkoff Education ML/DL [2020-2021]
+- Yandex_lyceum [2019-2021]
+- Yandex_lyceum++ (ML) [2020-2021]
+- Введение в Data Science и машинное обучение [[stepik]([https://t.me/swagman_trip](https://stepik.org/cert/1054618))]
 
 ## Projects & Hacks
-
+*   [AI Energy]() [2023] - 3 place of international competition with the task of Detection
 *   [Yandex_cup](https://github.com/MALINAYAGODA/Yandex_cup) [2023] - ///
 *   [DataWagon_hack](https://github.com/MALINAYAGODA/DataWagon_hack) [2023] - ///
 *   [IVision_hack](https://github.com/MALINAYAGODA/IVision_hack) [2021] - ///
 *   [Search_for_superheroes](https://github.com/MALINAYAGODA/Search_for_superheroes) [2021] - ///
 *   [Yandex_alice_hackathon](https://github.com/MALINAYAGODA/Yandex-Alice-Hackathon) [2021] - ///
 *   [Yandex_Race](https://github.com/MALINAYAGODA/Yandex-Race) [2021] - ///
- 
-### Relevant courses
-- Deep Learning School [2022-2023]
-- Tinkoff Education ML/DL [2020-2021]
-- Yandex_lyceum [2019-2021]
-- Yandex_lyceum++ [2020-2021]
+
+
+### Social experience:
+*   -
+
+## 🛠 Technical Stack
+*   **Programming**: Python, C++
+*   **ML**: Scikit_learn, Xgboost/Catboost
+*   **Data Workflow**: Pandas, SQL, Numpy, PySpark
+*   **Deep Learning**: PyTorch, OpenCV
+*   **Deployment**: Git
+*   **Extra**: PyGame, PyQt5
+
+### Key points
+*   Creator and author of [Swagman_trip](https://t.me/swagman_trip) telegram channel. Subscribe to recieve messages about my open-source activities.
+*   Currently studing in [MISIS](https://misis.ru/applicants/admission/baccalaureate-and-specialty/faculties/math/). Bachelor of Science. Applied mathematics.
+*   Do sports, in free time play volleyball.  
+*   A member of the Ambassador club in MISIS.
+
+### Languages
+*   English: Intermediate (B2)
+*   Russian: Native
+*   French: Elementary (A1)
 
 <div align="left" style="margin: 40px 0">
    <a href="https://github.com/MALINAYAGODA/github-profile-views-counter">
