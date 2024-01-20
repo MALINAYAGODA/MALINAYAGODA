@@ -36,13 +36,12 @@ Level: First course
 - Введение в Data Science и машинное обучение [[stepik]([https://t.me/swagman_trip](https://stepik.org/cert/1054618))]
 
 ## Projects & Hacks
-*   [AI Energy]() [2023] - 3 place of international competition with the task of Detection
-*   [Yandex_cup](https://github.com/MALINAYAGODA/Yandex_cup) [2023] - ///
-*   [DataWagon_hack](https://github.com/MALINAYAGODA/DataWagon_hack) [2023] - ///
-*   [IVision_hack](https://github.com/MALINAYAGODA/IVision_hack) [2021] - ///
-*   [Search_for_superheroes](https://github.com/MALINAYAGODA/Search_for_superheroes) [2021] - ///
-*   [Yandex_alice_hackathon](https://github.com/MALINAYAGODA/Yandex-Alice-Hackathon) [2021] - ///
-*   [Yandex_Race](https://github.com/MALINAYAGODA/Yandex-Race) [2021] - ///
+*   [AI Energy](https://github.com/timur612/insulator_defect_detection/tree/main) [2023] (3/25)- 3 place of international competition with the task of "Disc-type glass insulators absence detection"
+*   [Yandex_cup](https://github.com/MALINAYAGODA/Yandex_cup) [2023] (20/236) - Хакатон от Yandex, трек: распознавание жанра музки по эмбедингам (разного входного размера). Задача: MultiLabel Classification
+*   [IVision_hack](https://github.com/MALINAYAGODA/IVision_hack) [2021] (1/30) - 
+*   [Yandex_alice_hackathon](https://github.com/MALINAYAGODA/Yandex-Alice-Hackathon) [2021] (30 место) - Навык для голосового ассистента Алиса, написан на языке Python как проект для конкурса "Премия Алисы". Аналог игры Манчкин, только с ограничым, но с таким же интересным арсеналом🔥 
+*   [Search_for_superheroes](https://github.com/MALINAYAGODA/Search_for_superheroes) [2021] - Поисковая система, реализованная, как интерфейс настоящей Яндекс строки. Выдача ссылок на странички с описанием супер геровев по запросу, который проходит оработку и tf-idf предсказание по косинусовой близости (Проект Тинькофф поколения)
+*   [Yandex_Race](https://github.com/MALINAYAGODA/Yandex-Race) [2021] - Полноценная игра на фреймворке PyGame, где необходимо зарабатывать деньги, принимать заказы и весело разъезжать по карте, покупая новые машины; (Проект Яндекс Лицея)
 
 
 ### Social experience:
