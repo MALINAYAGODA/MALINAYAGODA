@@ -1,5 +1,6 @@
 # Hi, I'm Danila 👋
-**Machine learning engineer / Data Scientist** A young specialist trying out in various competitions and courses to find his idyll. Eager to kickstart my career as a DS intern at Yandex. Knowledgeable in machine vision and gradually switching to NLP.
+**Machine learning engineer / Data Scientist** 
+A young specialist trying out in various competitions and courses to find his idyll. Eager to kickstart my career as a DS intern at Yandex. Knowledgeable in machine vision and gradually switching to NLP.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=MALINAYAGODA"><img
@@ -31,7 +32,7 @@
 ## 🏆Projects & Hacks
 *   [AI Energy](https://github.com/timur612/insulator_defect_detection/tree/main) [2023] (3/25)- 3 place of international competition with the task of "Disc-type glass insulators absence detection"
 *   [Yandex_cup](https://github.com/MALINAYAGODA/Yandex_cup) [2023] (20/236) - Хакатон от Yandex, трек: распознавание жанра музки по эмбедингам (разного входного размера). Задача: MultiLabel Classification
-*   [IVision_hack](https://github.com/MALINAYAGODA/ZhabkazTeam_ivision/tree/main) [2021] (1/30) - Хакатон от Кванториума Петрозаводска, где я решил задачу BinaryClassification для компании "Ситилинк" и сделал полноценную модель для распознования оттока клиентов (0 - уйдет, 1 - останется)
+*   [IVision_hack](https://github.com/MALINAYAGODA/ZhabkazTeam_ivision/tree/main) [2021] (1/30) - Хакатон от Кванториума г. Петрозаводск, где я решил задачу BinaryClassification для компании "Ситилинк" и сделал полноценную модель для распознования оттока клиентов (0 - уйдет, 1 - останется)
 *   [Yandex_alice_hackathon](https://github.com/MALINAYAGODA/Yandex-Alice-Hackathon) [2021] (30 место) - Навык для голосового ассистента Алиса, написан на языке Python как проект для конкурса "Премия Алисы". Аналог игры Манчкин, только с ограничым, но с таким же интересным арсеналом🔥 
 *   [Search_for_superheroes](https://github.com/MALINAYAGODA/Search_for_superheroes) [2021] - Поисковая система, реализованная, как интерфейс настоящей Яндекс строки. Выдача ссылок на странички с описанием супер геровев по запросу, который проходит оработку и tf-idf предсказание по косинусовой близости (Проект Тинькофф поколения)
 *   [Yandex_Race](https://github.com/MALINAYAGODA/Yandex-Race) [2021] - Полноценная игра на фреймворке PyGame, где необходимо зарабатывать деньги, принимать заказы и весело разъезжать по карте, покупая новые машины; (Проект Яндекс Лицея)
