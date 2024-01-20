@@ -1,5 +1,5 @@
 # Hi, I'm Danila 👋
-**Data Scientist Intern.** A young specialist trying out in various competitions and courses to find his idyll. Eager to kickstart my career as a DS intern at Yandex. Knowledgeable in machine vision and gradually switching to NLP.
+**Machine learning engineer / Data Scientist** A young specialist trying out in various competitions and courses to find his idyll. Eager to kickstart my career as a DS intern at Yandex. Knowledgeable in machine vision and gradually switching to NLP.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=MALINAYAGODA"><img
@@ -20,25 +20,18 @@
    📫 How to reach me: <a href='mailto:d4nilamalinin@yandex.ru'>d4nilamalinin@yandex.ru</a>
 </p>
 
-### Education
-MBEI Gymnasium №1, Cheboksary; (2012-2023)
-Level: Secondary education, 11th grade
-
-MISIS University, Moscow; (2023-2027)
-Direction: "Applied Mathematics"
-Level: First course
-
-### Additional Education
-- Deep Learning School [2022-2023]
-- Tinkoff Education ML/DL [2020-2021]
-- Yandex_lyceum [2019-2021]
+### 👨‍🎓Additional Education
+- [NUST MISIS](https://en.misis.ru/) (Since 2023)
+- [Deep Learning School](https://dls.samcs.ru/) [2022-2023]
+- [Tinkoff Education ML/DL](https://fintech.tinkoff.ru/school/?dsp_click_id=319c6533-5f91-4761-af1f-e2170df20885) [2020-2021]
+- [Yandex_lyceum](https://lyceum.yandex.ru/) [2019-2021]
 - Yandex_lyceum++ (ML) [2020-2021]
-- Введение в Data Science и машинное обучение [[stepik]([https://t.me/swagman_trip](https://stepik.org/cert/1054618))]
+- Введение в Data Science и машинное обучение [[stepik](https://stepik.org/cert/1054618)]
 
-## Projects & Hacks
+## 🏆Projects & Hacks
 *   [AI Energy](https://github.com/timur612/insulator_defect_detection/tree/main) [2023] (3/25)- 3 place of international competition with the task of "Disc-type glass insulators absence detection"
 *   [Yandex_cup](https://github.com/MALINAYAGODA/Yandex_cup) [2023] (20/236) - Хакатон от Yandex, трек: распознавание жанра музки по эмбедингам (разного входного размера). Задача: MultiLabel Classification
-*   [IVision_hack](https://github.com/MALINAYAGODA/IVision_hack) [2021] (1/30) - 
+*   [IVision_hack](https://github.com/MALINAYAGODA/ZhabkazTeam_ivision/tree/main) [2021] (1/30) - Хакатон от Кванториума Петрозаводска, где я решил задачу BinaryClassification для компании "Ситилинк" и сделал полноценную модель для распознования оттока клиентов (0 - уйдет, 1 - останется)
 *   [Yandex_alice_hackathon](https://github.com/MALINAYAGODA/Yandex-Alice-Hackathon) [2021] (30 место) - Навык для голосового ассистента Алиса, написан на языке Python как проект для конкурса "Премия Алисы". Аналог игры Манчкин, только с ограничым, но с таким же интересным арсеналом🔥 
 *   [Search_for_superheroes](https://github.com/MALINAYAGODA/Search_for_superheroes) [2021] - Поисковая система, реализованная, как интерфейс настоящей Яндекс строки. Выдача ссылок на странички с описанием супер геровев по запросу, который проходит оработку и tf-idf предсказание по косинусовой близости (Проект Тинькофф поколения)
 *   [Yandex_Race](https://github.com/MALINAYAGODA/Yandex-Race) [2021] - Полноценная игра на фреймворке PyGame, где необходимо зарабатывать деньги, принимать заказы и весело разъезжать по карте, покупая новые машины; (Проект Яндекс Лицея)
@@ -61,7 +54,7 @@ Level: First course
 *   Do sports, in free time play volleyball.  
 *   A member of the Ambassador club in MISIS.
 
-### Languages
+### 🌍Languages
 *   English: Intermediate (B2)
 *   Russian: Native
 *   French: Elementary (A1)
