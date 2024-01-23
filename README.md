@@ -24,9 +24,9 @@ A young specialist trying out in various competitions and courses to find his id
 ### 👨‍🎓Additional Education
 - [NUST MISIS](https://en.misis.ru/) (Since 2023)
 - [Deep Learning School](https://dls.samcs.ru/) [2022-2023]
-- [Tinkoff Education ML/DL](https://fintech.tinkoff.ru/school/?dsp_click_id=319c6533-5f91-4761-af1f-e2170df20885) [2020-2021]
-- [Yandex_lyceum](https://lyceum.yandex.ru/) [2019-2021]
-- Yandex_lyceum++ (ML) [2020-2021]
+- [Tinkoff Education ML/DL](https://fintech.tinkoff.ru/school/?dsp_click_id=319c6533-5f91-4761-af1f-e2170df20885) [2020-2021] (certificate)
+- [Yandex_lyceum](https://lyceum.yandex.ru/) [2019-2021] (certificate)
+- Yandex_lyceum++ (ML) [2020-2021] ([certificate](https://github.com/MALINAYAGODA/my_files/blob/main/2204%2043912%20Малинин.pdf))
 - Введение в Data Science и машинное обучение [[stepik](https://stepik.org/cert/1054618)]
 
 ## 🏆Projects & Hacks
