@@ -30,8 +30,8 @@ A young specialist trying out in various competitions and courses to find his id
 - Введение в Data Science и машинное обучение [[stepik](https://stepik.org/cert/1054618)]
 
 ## 🏆Projects & Hacks
-*   **Talent Match** [2024] (2/56) - 2 place of competition from the company "SENSE Group" with the support of MSU, with the task of "Сomparison of resumes and vacancies" [NLP]
-*   [AI Energy](https://github.com/timur612/insulator_defect_detection/tree/main) [2023] (3/25)- 3 place of international competition with the task of "Disc-type glass insulators absence detection"
+*   **Talent Match** [2024] (2/56 🥈) - 2 place of competition from the company "SENSE Group" with the support of MSU, with the task of "Сomparison of resumes and vacancies" [NLP]
+*   [AI Energy](https://github.com/timur612/insulator_defect_detection/tree/main) [2023] (3/25 🥉)- 3 place of international competition with the task of "Disc-type glass insulators absence detection"
 *   [Yandex_cup](https://github.com/MALINAYAGODA/Yandex_cup) [2023] (20/236) - Хакатон от Yandex, трек: распознавание жанра музки по эмбедингам (разного входного размера). Задача: MultiLabel Classification
 *   [IVision_hack](https://github.com/MALINAYAGODA/ZhabkazTeam_ivision/tree/main) [2021] (1/30) - Хакатон от Кванториума г. Петрозаводск, где я решил задачу BinaryClassification для компании "Ситилинк" и сделал полноценную модель для распознования оттока клиентов (0 - уйдет, 1 - останется)
 *   [Yandex_alice_hackathon](https://github.com/MALINAYAGODA/Yandex-Alice-Hackathon) [2021] (30 место) - Навык для голосового ассистента Алиса, написан на языке Python как проект для конкурса "Премия Алисы". Аналог игры Манчкин, только с ограничым, но с таким же интересным арсеналом🔥 
