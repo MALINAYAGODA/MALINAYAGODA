@@ -1,5 +1,5 @@
 # Hi, I'm Danila 👋
-**Machine learning engineer / Data Scientist** 
+([CV](https://drive.google.com/file/d/1W5KKgrFqwhUgVsuxsSGCZps-rzYp6F5a/view?usp=sharing)) **Machine learning engineer / Data Scientist** 
 A young specialist trying out in various competitions and courses to find his idyll. Eager to kickstart my career as a DS intern at Yandex. Knowledgeable in machine vision and gradually switching to NLP.
 
 <p align='center'>
