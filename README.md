@@ -1,6 +1,6 @@
 # Hi, I'm Danila 👋
 **Machine learning engineer / Data Scientist** 
-A young specialist trying out in various competitions and courses to find his idyll. Eager to kickstart my career as a DS intern at Yandex. Knowledgeable in machine vision and gradually switching to NLP. ([CV](https://drive.google.com/file/d/1W5KKgrFqwhUgVsuxsSGCZps-rzYp6F5a/view?usp=sharing)) 
+A NLP specialist trying out in various competitions and courses to find his idyll. Participate in hackathons, look for like-minded people and in my free time I develop and spin LLM ([CV](https://drive.google.com/file/d/1MU2UFWQpgKzdNKLO_MvddXn16NnGYoo7/view?usp=sharing)) 
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=MALINAYAGODA"><img
