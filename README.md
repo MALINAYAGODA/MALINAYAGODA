@@ -1,6 +1,6 @@
 # Hi, I'm Danila 👋
 **Machine learning engineer / Data Scientist** 
-A NLP specialist trying out in various competitions and courses to find his idyll. Participate in hackathons, look for like-minded people and in my free time I develop and spin LLM ([CV](https://drive.google.com/file/d/1cgiY8WuWwTreBSp-jU4_6ymHwAtbF7x0/view?usp=sharing)) 
+A NLP specialist trying out in various competitions and courses to find his idyll. Participate in hackathons, look for like-minded people and in my free time I develop and spin LLM 
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=MALINAYAGODA"><img
