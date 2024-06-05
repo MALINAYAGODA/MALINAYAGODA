@@ -30,6 +30,11 @@ A NLP specialist trying out in various competitions and courses to find his idyl
 - Введение в Data Science и машинное обучение [[stepik](https://stepik.org/cert/1054618)]
 
 ## 🏆Projects & Hacks
+
+| 1) Первый блок | 3) Третий блок |
+| -------------- | -------------- |
+| 2) Второй блок | 4) Четвертый блок |
+*   [](https://github.com/daniil-dushenev/gagarin-hack) [2024] (4/30) 
 *   [Purple Hack](https://github.com/MALINAYAGODA/Purple_hack) [2024] (3/40 🥉) - 3rd place in the competition from MIPT and **sber** in the case "Forecasting the outflow of FL payroll clients", where we worked with features and data analytics [ML]
 *   [Talent Match](https://github.com/MALINAYAGODA/Talent-Match) [2024] (2/56 🥈) - 2 place of competition from the company "SENSE Group" supported MSU, with the task of "Сomparison of resumes and vacancies" [NLP]
 *   [AI Energy](https://github.com/timur612/insulator_defect_detection/tree/main) [2023] (3/25 🥉)- 3 place of international competition with the task of "Disc-type glass insulators absence detection"
