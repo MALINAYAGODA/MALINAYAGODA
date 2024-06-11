@@ -30,6 +30,7 @@ A NLP specialist trying out in various competitions and courses to find his idyl
 - Введение в Data Science и машинное обучение [[stepik](https://stepik.org/cert/1054618)]
 
 ## 🏆Projects & Hacks
+*   [X5 Tech Hack](https://github.com/VivatImperial/SlovarikDB_Hallucination_Detection/tree/main) [2024] (5/30) - Pipeline implementation based on DeBERT, NER and llama-3 to solve the problem of hallucination classification in LLM. F1 score = 0.95.
 *   [Tender-hack](https://github.com/epivoca/tender-hack) [2024] (finalist)  [NLP] - the case is "Creating a functional for generating names and characteristics STE in a universal form", where we preprocessed data by nltk, implemented vector database FAISS with embeddings of sentense transformer LaBSE (to work with russian tokens), WildBerries parser, word validation based on n-gramms, t9, pyspellchecker
 *   [Gagarin.Hack](https://github.com/daniil-dushenev/gagarin-hack) [2024] (4/30) - Predicting the sentimentality of news (based on company) by NER and rubert-tiny
 *   [Purple Hack](https://github.com/MALINAYAGODA/Purple_hack) [2024] (3/40 🥉) - 3rd place in the competition from MIPT and **sber** in the case "Forecasting the outflow of FL payroll clients", where we worked with features and data analytics [ML]
