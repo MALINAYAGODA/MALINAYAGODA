@@ -55,10 +55,11 @@ A NLP specialist trying out in various competitions and courses to find his idyl
 *   **Extra**: PyGame, PyQt5
 
 ### Key points
+*   Manager of the [AI knowledge club](https://t.me/+vEZLTQ9wWT44OTRi) in MISIS. 
 *   Creator and author of [Swagman_trip](https://t.me/swagman_trip) telegram channel. Subscribe to recieve messages about my open-source activities.
 *   Currently studing in [MISIS](https://misis.ru/applicants/admission/baccalaureate-and-specialty/faculties/math/). Bachelor of Science. Applied mathematics.
 *   Do sports, in free time play volleyball.  
-*   A member of the Ambassador club in MISIS.
+
 
 ### 🌍Languages
 *   English: Intermediate (B2)
