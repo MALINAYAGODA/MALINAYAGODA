@@ -1,6 +1,6 @@
 # Hi, I'm Danila 👋
-**Machine learning engineer / Data Scientist** 
-A NLP specialist trying out in various competitions and courses to find his idyll. Participate in hackathons, look for like-minded people and in my free time I develop and spin LLM 
+**NLP developer / Research / Data Scientist** 
+Specialist with 2 years of experience, I can train bert-like, LLM models and work with multi-agent systems and RAG. I have participated in 25+ hackathons, like to travel around Russia and solve uncommon problems quickly and efficiently. In my free time I am engaged in mentoring and manager of AI Knowledge club in NUST MISIS.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=MALINAYAGODA"><img
@@ -30,6 +30,9 @@ A NLP specialist trying out in various competitions and courses to find his idyl
 - Введение в Data Science и машинное обучение [[stepik](https://stepik.org/cert/1054618)]
 
 ## 🏆Projects & Hacks
+*   [Hackathon Nornickel](https://github.com/daniilda/dis) [2024] (2/40 🥈) - We provided an architectural solution for searching through Word and PDF files. We used ColPali, the Qdrant database, YOLOv10 to detect text, images, and Qwen with Vikhr-Nemo to answer the question.
+*   [Alfa hack](https://github.com/MALINAYAGODA/alfa-hack-churn) [2024] (5/50) - Implemented Auto ML on alfa bank data with the best quality on 15 datasets.
+*   [Tatneft Hackathon](https://github.com/MALINAYAGODA/Techstorm) [2024] (3/40 🥉) - Created an analog of Perplexity based on own parser and architecture. Provided a fast SOTA RAG system on TATNEFT documents.
 *   [X5 Tech Hack](https://github.com/VivatImperial/SlovarikDB_Hallucination_Detection/tree/main) [2024] (5/30) - Pipeline implementation based on DeBERT, NER and llama-3 to solve the problem of hallucination classification in LLM. F1 score = 0.95.
 *   [Tender-hack](https://github.com/epivoca/tender-hack) [2024] (finalist)  [NLP] - the case is "Creating a functional for generating names and characteristics STE in a universal form", where we preprocessed data by nltk, implemented vector database FAISS with embeddings of sentense transformer LaBSE (to work with russian tokens), WildBerries parser, word validation based on n-gramms, t9, pyspellchecker
 *   [Gagarin.Hack](https://github.com/daniil-dushenev/gagarin-hack) [2024] (4/30) - Predicting the sentimentality of news (based on company) by NER and rubert-tiny
