@@ -11,7 +11,7 @@ Specialist with 2 years of experience, I can train bert-like, LLM models and wor
 </p>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/MALINAYAGODA/">
+   <a href="https://www.linkedin.com/in/danila-malinin-9565262a0/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <a href="https://t.me/malinin_danila">
