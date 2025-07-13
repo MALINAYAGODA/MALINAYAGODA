@@ -1,6 +1,6 @@
 # Hi, I'm Danila 👋
 **NLP developer / Research / Data Scientist** 
-Specialist with 2 years of experience, I can train bert-like, LLM models and work with multi-agent systems and RAG. I have participated in 25+ hackathons, like to travel around Russia and solve uncommon problems quickly and efficiently. In my free time I am engaged in mentoring and manager of AI Knowledge club in NUST MISIS.
+Specialist with 3 years of experience, I can train bert-like, LLM models and work with multi-agent systems and RAG. I have participated in 25+ hackathons, like to travel around Russia and solve uncommon problems quickly and efficiently. In my free time I am engaged in mentoring and manager of AI Knowledge club in NUST MISIS.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=MALINAYAGODA"><img
