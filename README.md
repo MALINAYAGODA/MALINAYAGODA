@@ -18,7 +18,7 @@ Specialist with 3 years of experience, I can train bert-like, LLM models and wor
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:d4nilamalinin@yandex.ru'>d4nilamalinin@yandex.ru</a>
+   📫 How to reach me: <a href='mailto:danilamalinin1@gmail.com'>danilamalinin1@gmail.com</a>
 </p>
 
 ### 👨‍🎓Additional Education
